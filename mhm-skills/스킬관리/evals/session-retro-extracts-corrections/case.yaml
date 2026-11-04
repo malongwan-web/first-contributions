@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: session-retro-extracts-corrections
+expected_outcome: |
+  교정·판단기준 후보를 1줄 명령형으로 7개 이하 표로 제시하고, 일회성 지시와 공시 전 정보 원문은 제외하며, 미결은 handoff로 넘기고, 승인 전에는 반영하지 않는다.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: review-retro-tag-not-session
+expected_outcome: |
+  #회고 단독 + 결재 안건 맥락이므로 세션회고 후보표를 만들지 않고 검토보고 회고 소관임을 안내한다.

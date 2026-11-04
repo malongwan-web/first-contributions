@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: skill-audit-flags-overlaps
+expected_outcome: |
+  6개 기준 100점 점수표와 심각도순 지적표를 만들고, 검토보고 #회고와 스킬관리, 한글 문서 3종 중복을 지적하며, 본문 미열람은 [추정]으로 표시하고 원본은 수정하지 않는다.
+context:
+  scaffold_script: place-files.sh
